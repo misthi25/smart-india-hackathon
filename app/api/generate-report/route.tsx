@@ -91,7 +91,7 @@ function generateReportHTML(studentData: any, reportType: string) {
         .footer { text-align: center; margin-top: 50px; font-size: 12px; color: #666; }
         table { width: 100%; border-collapse: collapse; margin: 20px 0; }
         th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
-        th { background-color: #f2f2f2; }
+        th { background-color: #5D2F77; }
       </style>
     </head>
     <body>
