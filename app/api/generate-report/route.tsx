@@ -82,7 +82,7 @@ function generateReportHTML(studentData: any, reportType: string) {
         body { font-family: Arial, sans-serif; margin: 40px; color: #333; }
         .header { text-align: center; border-bottom: 2px solid #0066cc; padding-bottom: 20px; margin-bottom: 30px; }
         .logo { font-size: 24px; font-weight: bold; color: #0066cc; }
-        .student-info { background: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 30px; }
+        .student-info { background: #4FB7B3; padding: 20px; border-radius: 8px; margin-bottom: 30px; }
         .risk-section { margin-bottom: 30px; }
         .risk-high { color: #dc3545; font-weight: bold; }
         .risk-medium { color: #ffc107; font-weight: bold; }
